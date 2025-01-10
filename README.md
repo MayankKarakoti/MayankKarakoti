@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Karakoti</h1>
-<h3 align="center">A passionate Software Developer from India.</h3>
+<h3 align="center">A passionate Software Developer from Nainital,India.</h3>
 
 - 🔭 I’m currently working on **Web Dev and Web3.**
 
